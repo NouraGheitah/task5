@@ -1,0 +1,47 @@
+.navbar{background-color: #C2EFD4;}
+.navbar-nav{justify-content: center;}
+.fa-solid{width: 32px;height: 32px;padding-top: 10px;}
+.text-color{ color: #224F34;}
+.mt-0 { margin-top: 15px !important;}
+.image-background{background-color: #5dd38c; border-radius: 25%;}
+.mt-1 {margin-top: 10% !important;} 
+.ms-2 {margin-left:20% !important;}
+.container {
+    justify-content: center;
+    border-radius: 0;
+  }
+.m-4{ margin-top: 5%;
+justify-content: center;}
+.image1{
+    background-color: #42b992;
+    width: 250px;
+    height: 300px;
+}
+.t-card {  width:300px;}
+.dark-line{border-right: .5px  solid rgb(102, 101, 101); }
+.mt {margin-top: -5px !important;}
+.image2{
+    background-color: #96e4ca;
+    width: 250px;
+    height: 300px;
+}
+.image3{
+    background-color: #6e9b8c;
+    width: 250px;
+    height: 300px;
+}
+.title{ padding-right: 26%;
+padding-top: 5%;
+padding-bottom: 3%;}
+.seeall{ padding-left: 50%;}
+.seeall1{ padding-left: 60%;}
+.cards{ padding-left: 20%;}
+.button{padding-right: -50%;}
+.product{padding-left: 40%;}
+.container{padding-left: 3%;}
+.bord{border-radius: 0;}
+.brod{margin-bottom: 3%;}
+.img{ background-color:gainsboro;}
+.position{padding-left: 30%;}
+.container1{ padding-left: 20%;
+margin-bottom: 10%;}
